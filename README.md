@@ -6,6 +6,7 @@
  ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tio-ananda-sinaga-940098308/)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/tioansgg?igsh=eW1mZWJncWdqdmFy)
+[![Youtube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCXmHBiz-tgrniG8ODgrby4w)
 
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
