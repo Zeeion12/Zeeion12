@@ -4,7 +4,7 @@
 </div>
 
  ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/tio-ananda-sinaga-940098308)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tio-ananda-sinaga-940098308/)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/tioansgg?igsh=eW1mZWJncWdqdmFy)
 
 ### Languages and Tools:
