@@ -14,7 +14,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeion12&layout=compact&theme=radical)
+<!--- Theme Lainnya 
+dark
+tokyonight
+onedark
+gruvbox
+---!>
+
 
 
 <!---
