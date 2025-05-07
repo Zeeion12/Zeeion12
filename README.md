@@ -19,6 +19,9 @@
 
 ### Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeion12&layout=compact&theme=radical)
+
+##My Repository
+<img src="https://raw.githubusercontent.com/Zeeion12/Zeeion12/output/snake.svg" alt="Snake animation" />
 <!--- Theme Lainnya 
 dark
 tokyonight
