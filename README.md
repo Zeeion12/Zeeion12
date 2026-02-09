@@ -16,9 +16,9 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+## 🚀 Most Used Languages
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zeeion12&theme=radical)
 
-### Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeion12&layout=compact&theme=radical)
 
 ### 🐍 Snake Game Animation
 
